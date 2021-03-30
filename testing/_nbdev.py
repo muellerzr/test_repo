@@ -2,9 +2,10 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"addition": "00_core.ipynb",
+         "multiplication": "00_core.ipynb"}
 
-modules = []
+modules = ["math.py"]
 
 doc_url = "https://muellerzr.github.io/testing/"
 
