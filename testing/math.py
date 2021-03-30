@@ -14,7 +14,7 @@ def _subtraction(a:int, b:int) -> int:
     """
     Performs subtraction of `a` and `b`
     """
-    return a + b
+    return a - b
 
 # Cell
 def multiplication(a:int, b:int) -> int:
