@@ -13,6 +13,6 @@ entries:
       title: Basic math
       url: core.html
     output: web
-    title: testing
+    title: test_repo
   output: web
   title: Sidebar
